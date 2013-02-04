@@ -9,7 +9,7 @@ footer: true
 
 I am an iOS Developer with 4+ years of full time work experience with iOS SDK. I began working on iOS apps since January 2009 and have stayed an iOS Developer ever since.
 
-Here is a list of apps i have developed for iOS:
+Here is a list of iOS apps i have developed:
 
 * [Anthm/Jukio](http://juk.io/) : An app whose mission is to establish musical democracy by crowdsourcing your party playlist. Featured on TechCrunch, BBC radio etc.
 
