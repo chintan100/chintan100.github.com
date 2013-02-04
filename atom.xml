@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[iBumble]]></title>
-  <link href="http://chintan100.github.com/atom.xml" rel="self"/>
-  <link href="http://chintan100.github.com/"/>
-  <updated>2013-02-04T18:25:36+05:30</updated>
-  <id>http://chintan100.github.com/</id>
+  <link href="http://ibumble.com/atom.xml" rel="self"/>
+  <link href="http://ibumble.com/"/>
+  <updated>2013-02-04T18:36:19+05:30</updated>
+  <id>http://ibumble.com/</id>
   <author>
     <name><![CDATA[Chintan Patel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Second post on the new blog]]></title>
-    <link href="http://chintan100.github.com/blog/2013/02/02/second-post-on-the-new-blog/"/>
+    <link href="http://ibumble.com/blog/2013/02/02/second-post-on-the-new-blog/"/>
     <updated>2013-02-02T23:50:00+05:30</updated>
-    <id>http://chintan100.github.com/blog/2013/02/02/second-post-on-the-new-blog</id>
+    <id>http://ibumble.com/blog/2013/02/02/second-post-on-the-new-blog</id>
     <content type="html"><![CDATA[<p>This is the second post on the new blog <!-- more --></p>
 
 <p>This should be shown only after Read More is pressed.</p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[First post on the new blog]]></title>
-    <link href="http://chintan100.github.com/blog/2013/02/02/first-post-on-the-new-blog/"/>
+    <link href="http://ibumble.com/blog/2013/02/02/first-post-on-the-new-blog/"/>
     <updated>2013-02-02T23:44:00+05:30</updated>
-    <id>http://chintan100.github.com/blog/2013/02/02/first-post-on-the-new-blog</id>
+    <id>http://ibumble.com/blog/2013/02/02/first-post-on-the-new-blog</id>
     <content type="html"><![CDATA[<p>This is the first post on the new blog <!-- more --></p>
 
 <p>This should be shown only after Read More is pressed.</p>

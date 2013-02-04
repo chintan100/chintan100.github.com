@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://chintan100.github.com/sitemap.xml 
+Sitemap: http://ibumble.com/sitemap.xml 

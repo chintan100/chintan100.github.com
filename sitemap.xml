@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://chintan100.github.com/blog/2013/02/02/first-post-on-the-new-blog/</loc>
+        <loc>http://ibumble.com/blog/2013/02/02/first-post-on-the-new-blog/</loc>
         <lastmod>2013-02-02T23:46:09+05:30</lastmod>
     </url>
     <url>
-        <loc>http://chintan100.github.com/blog/2013/02/02/second-post-on-the-new-blog/</loc>
+        <loc>http://ibumble.com/blog/2013/02/02/second-post-on-the-new-blog/</loc>
         <lastmod>2013-02-02T23:50:39+05:30</lastmod>
     </url>
     <url>
-        <loc>http://chintan100.github.com/about/</loc>
+        <loc>http://ibumble.com/about/</loc>
         <lastmod>2013-02-04T18:25:30+05:30</lastmod>
     </url>
     <url>
-        <loc>http://chintan100.github.com/blog/archives/</loc>
+        <loc>http://ibumble.com/blog/archives/</loc>
         <lastmod>2013-02-02T23:50:39+05:30</lastmod>
     </url>
     <url>
-        <loc>http://chintan100.github.com/</loc>
+        <loc>http://ibumble.com/</loc>
         <lastmod>2013-02-02T23:50:39+05:30</lastmod>
     </url>
     <url>
-        <loc>http://chintan100.github.com/robots.txt</loc>
+        <loc>http://ibumble.com/robots.txt</loc>
         <lastmod>2013-02-02T23:20:46+05:30</lastmod>
     </url>
 </urlset>
