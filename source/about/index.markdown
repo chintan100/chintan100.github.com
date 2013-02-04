@@ -41,6 +41,6 @@ Here is a list of iOS apps i have developed:
 
 * [Centurion 100 Club](http://itunes.apple.com/app/id418319776) : Use this app to keep track of your drinking game on your way to hit a centurion.
 
-* [Foursight](http://itunes.apple.com/app/id353074631) : An "easy to learn, hard to master" boardgame with an original concept. 
+* [Foursight](http://itunes.apple.com/app/id353074631) : An "easy to learn, hard to master" boardgame with an original concept. Can be played against computer or another player.
 
 * [Wifi HD Free Wireless Hard Disk](http://itunes.apple.com/app/id311170976) : Turn your iOS Device into a wireless pen drive. Transfer files to/from your iPhone wirelessly over WiFi. 
