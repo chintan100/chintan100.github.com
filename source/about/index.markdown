@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-I am an iOS Developer with 4+ years of full time work experience with iOS SDK. I began working on iOS apps since January 2009 and have stayed an iOS Developer ever since.
+I am an iOS Developer with 4+ years of full time work experience with iOS SDK. I began developing iOS apps in January 2009. I quit my full-time job in November 2012 to become an independent iOS Developer.
 
 Here is a list of iOS apps i have developed:
 
