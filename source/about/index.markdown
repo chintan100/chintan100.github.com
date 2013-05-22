@@ -15,6 +15,8 @@ Here is a list of iOS apps i have developed:
 
 * [Sears Catalogues](http://itunes.apple.com/ca/app/id475366265) : The famous Sears Catalogue now on your iPad. App is only available in Canadian App Store.
 
+* [Greets](https://itunes.apple.com/app/id631229800) : A fun app to send animated greeting cards for all occasions.
+
 * [TouchPoint - Business](http://itunes.apple.com/app/id398243844) : A B2B application for companies/organizations/institutions to collect feedback from their customers/employees. Clients include some Fortune 500 companies like Amazon, Accenture, Bank of America and government institutions like US Army, US Navy etc. [Complete client list](http://opinionmeter.com/customers/client-lists/).
 
 * [Vexx SMS](http://itunes.apple.com/app/id414878972) : A WhatsApp-like cross-platform voice and text messaging client developed in South Africa with a mission to eliminate the need of using traditional SMS.
