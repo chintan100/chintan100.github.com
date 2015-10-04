@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 
-A week ago, i released my first iOS app to the App Store: [Winmail.dat File Viewer Pro](http://taps.io/winmail). This post is about how I did market research to find what to build as my first iOS app as a part of the [iOS 7 App Challenge: Building 3 Apps in 3 Weeks](http://www.reddit.com/r/iOSProgramming/comments/1pra20/starting_the_ios_7_app_challenge_building_3_apps/) started by [Taylor Beck](http://www.taylorbeck.me/).
+A week ago, i released my first iOS app to the App Store: [Winmail.dat File Viewer Pro](http://taps.io/winmail). This post is about how I did market research to find what to build as my first iOS app on App Store.
 
 If Microsoft Outlook server is not configured correctly, it can send out emails as "winmail.dat" files instead of the actual email with attachments. 
 
