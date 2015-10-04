@@ -4,7 +4,7 @@
   <title><![CDATA[iBumble]]></title>
   <link href="http://ibumble.com/atom.xml" rel="self"/>
   <link href="http://ibumble.com/"/>
-  <updated>2015-08-14T15:22:14+05:30</updated>
+  <updated>2015-10-04T23:18:57+05:30</updated>
   <id>http://ibumble.com/</id>
   <author>
     <name><![CDATA[Chintan Patel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://ibumble.com/blog/2013/11/13/how-to-open-winmail-dot-dat-files-on-ios-iphone-and-ipad/"/>
     <updated>2013-11-13T15:15:00+05:30</updated>
     <id>http://ibumble.com/blog/2013/11/13/how-to-open-winmail-dot-dat-files-on-ios-iphone-and-ipad</id>
-    <content type="html"><![CDATA[<p>A week ago, i released my first iOS app to the App Store: <a href="http://taps.io/winmail">Winmail.dat File Viewer Pro</a>. This post is about how I did market research to find what to build as my first iOS app as a part of the <a href="http://www.reddit.com/r/iOSProgramming/comments/1pra20/starting_the_ios_7_app_challenge_building_3_apps/">iOS 7 App Challenge: Building 3 Apps in 3 Weeks</a> started by <a href="http://www.taylorbeck.me/">Taylor Beck</a>.</p>
+    <content type="html"><![CDATA[<p>A week ago, i released my first iOS app to the App Store: <a href="http://taps.io/winmail">Winmail.dat File Viewer Pro</a>. This post is about how I did market research to find what to build as my first iOS app on App Store.</p>
 
 <p>If Microsoft Outlook server is not configured correctly, it can send out emails as &#8220;winmail.dat&#8221; files instead of the actual email with attachments.</p>
 
