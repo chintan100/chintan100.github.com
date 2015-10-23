@@ -4,7 +4,7 @@
   <title><![CDATA[iBumble]]></title>
   <link href="http://ibumble.com/atom.xml" rel="self"/>
   <link href="http://ibumble.com/"/>
-  <updated>2015-10-04T23:18:57+05:30</updated>
+  <updated>2015-10-23T16:21:18+05:30</updated>
   <id>http://ibumble.com/</id>
   <author>
     <name><![CDATA[Chintan Patel]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Image To PDF Converter App for iOS: How to create a PDF from multiple images on iPhone and iPad]]></title>
+    <link href="http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/"/>
+    <updated>2015-10-23T15:54:00+05:30</updated>
+    <id>http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad</id>
+    <content type="html"><![CDATA[<p>App Store link: <a href="https://itunes.apple.com/app/image-to-pdf-converter-pro/id758170890?at=1l3uZR4&amp;ct=pdfbp">Image To PDF Converter</a></p>
+
+<p>While dealing with the problem of sending business expense reports or bills to Finance department while working as an employee in a company, I was often faced with the task of sending bills to Finance department as a proof to claim reimbursement.</p>
+
+<p>To fulfill this task, just capturing pictures from phone camera and sending captured images of bills as separate email attachments or zipping them together might cause some file management pain if the number of images increase.</p>
+
+<p>To deal with this, I decided to come up with an iOS app&#8230;<!-- more --> which creates a PDF from multiple selected images. This app allows the user to select multiple images from Photo Library and reorder them as needed. You can also delete selected images from the list if you wish. After you are satisfied with the ordering, you just have to press &#8220;Create PDF&#8221; button which will instantly generate a PDF with each image printed on a separate PDF page.</p>
+
+<p> When the PDF is generated, the app shows all sharing options like &#8220;Printing PDF&#8221;, &#8220;Upload to Dropbox&#8221;, &#8220;Upload to Google Drive&#8221;, &#8220;Upload to Microsoft OneDrive&#8221;, &#8220;Mail&#8221;, etc and you can also open any other PDF editor on your iPhone or iPad to edit newly created PDF. Moreover, the app is a Universal app which means you just have to buy the app once and it will run great on both iPhone and iPad.</p>
+
+<p> Hope you all enjoy my app! App Store link: <a href="https://itunes.apple.com/app/image-to-pdf-converter-pro/id758170890?at=1l3uZR4&amp;ct=pdfbp">Image To PDF Converter</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Open winmail.dat Files on iOS (iPhone and iPad)]]></title>
