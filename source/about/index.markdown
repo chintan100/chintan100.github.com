@@ -17,7 +17,7 @@ Here is a list of iOS apps i have developed:
 
 * [Winmail DAT File Viewer Pro - Open winmail.dat TNEF-encoded Outlook files](https://itunes.apple.com/app/winmail-dat-file-viewer-pro/id733258678?at=1l3uZR4&ct=blog) : View contents of "wimail.dat" files on iOS with ease. More than 200k winmail files have been sucessfully extracted with this app.
 
-* [Ad Blocker Pro - Block Maximum Ads in Mobile Browser](https://itunes.apple.com/app/ad-blocker-pro-block-maximum/id1043843815?at=1l3uZR4&ct=blog) : View contents of "wimail.dat" files on iOS with ease. More than 200k winmail files have been sucessfully extracted with this app.
+* [Ad Blocker Pro - Block Maximum Ads in Mobile Browser](https://itunes.apple.com/app/ad-blocker-pro-block-maximum/id1043843815?at=1l3uZR4&ct=blog) : Block ads in mobile Safari while increasing browsing speed and saving mobile data.
 
 * [Image To PDF Converter](https://itunes.apple.com/app/image-to-pdf-converter-pro/id758170890?at=1l3uZR4&ct=blog) : Universal app enabling users to create multi-page PDF files from images imported from your library or captured with camera within the app. After the PDF has been created, you can share it using Mail, Dropbox, Drive, Print, Airdrop etc.
 
