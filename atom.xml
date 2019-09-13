@@ -4,7 +4,7 @@
   <title><![CDATA[iBumble]]></title>
   <link href="http://ibumble.com/atom.xml" rel="self"/>
   <link href="http://ibumble.com/"/>
-  <updated>2015-11-25T12:05:45+05:30</updated>
+  <updated>2019-09-14T01:38:40+05:30</updated>
   <id>http://ibumble.com/</id>
   <author>
     <name><![CDATA[Chintan Patel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Image To PDF Converter App for iOS: How to create a PDF from multiple images on iPhone and iPad]]></title>
+    <title type="html"><![CDATA[Image to PDF Converter App for iOS: How to Create a PDF From Multiple Images on iPhone and iPad]]></title>
     <link href="http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/"/>
     <updated>2015-10-23T15:54:00+05:30</updated>
     <id>http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad</id>
@@ -24,9 +24,9 @@
 
 <p>To fulfill this task, just capturing pictures from phone camera and sending captured images of bills as separate email attachments or zipping them together might cause some file management pain if the number of images increase.</p>
 
-<p>To deal with this, I decided to come up with an iOS app&#8230;<!-- more --> which creates a PDF from multiple selected images. This app allows the user to select multiple images from Photo Library and reorder them as needed. You can also delete selected images from the list if you wish. After you are satisfied with the ordering, you just have to press &#8220;Create PDF&#8221; button which will instantly generate a PDF with each image printed on a separate PDF page.</p>
+<p>To deal with this, I decided to come up with an iOS app&hellip;<!-- more --> which creates a PDF from multiple selected images. This app allows the user to select multiple images from Photo Library and reorder them as needed. You can also delete selected images from the list if you wish. After you are satisfied with the ordering, you just have to press &ldquo;Create PDF&rdquo; button which will instantly generate a PDF with each image printed on a separate PDF page.</p>
 
-<p> When the PDF is generated, the app shows all sharing options like &#8220;Printing PDF&#8221;, &#8220;Upload to Dropbox&#8221;, &#8220;Upload to Google Drive&#8221;, &#8220;Upload to Microsoft OneDrive&#8221;, &#8220;Mail&#8221;, etc and you can also open any other PDF editor on your iPhone or iPad to edit newly created PDF. Moreover, the app is a Universal app which means you just have to buy the app once and it will run great on both iPhone and iPad.</p>
+<p> When the PDF is generated, the app shows all sharing options like &ldquo;Printing PDF&rdquo;, &ldquo;Upload to Dropbox&rdquo;, &ldquo;Upload to Google Drive&rdquo;, &ldquo;Upload to Microsoft OneDrive&rdquo;, &ldquo;Mail&rdquo;, etc and you can also open any other PDF editor on your iPhone or iPad to edit newly created PDF. Moreover, the app is a Universal app which means you just have to buy the app once and it will run great on both iPhone and iPad.</p>
 
 <p> Hope you all enjoy my app! App Store link: <a href="https://itunes.apple.com/app/image-to-pdf-converter-pro/id758170890?at=1l3uZR4&amp;ct=pdfbp">Image To PDF Converter</a></p>
 ]]></content>
@@ -39,12 +39,12 @@
     <id>http://ibumble.com/blog/2013/11/13/how-to-open-winmail-dot-dat-files-on-ios-iphone-and-ipad</id>
     <content type="html"><![CDATA[<p>A week ago, i released my first iOS app to the App Store: <a href="http://taps.io/winmail">Winmail.dat File Viewer Pro</a>. This post is about how I did market research to find what to build as my first iOS app on App Store.</p>
 
-<p>If Microsoft Outlook server is not configured correctly, it can send out emails as &#8220;winmail.dat&#8221; files instead of the actual email with attachments.</p>
+<p>If Microsoft Outlook server is not configured correctly, it can send out emails as &ldquo;winmail.dat&rdquo; files instead of the actual email with attachments.</p>
 
 <!--more -->
 
 
-<p>The winmail.dat file is a TNEF-encoded file containing the email body text as a &#8220;.rtf&#8221; file along with any other attachments if present.</p>
+<p>The winmail.dat file is a TNEF-encoded file containing the email body text as a &ldquo;.rtf&rdquo; file along with any other attachments if present.</p>
 
 <p>Receiving such files on any platform can be a problem because the recipient is not sure how to open the winmail.dat file to access text and attachments contained within the email. Moreover, most senders will be unaware of the cause of this issue and may need help of their IT department to solve the issue.</p>
 

@@ -1,35 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://ibumble.com/blog/2013/02/02/first-post-on-the-new-blog/</loc>
-        <lastmod>2013-02-10T15:21:42+05:30</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://ibumble.com/blog/2013/11/13/how-to-open-winmail-dot-dat-files-on-ios-iphone-and-ipad/
-        </loc>
-        <lastmod>2015-10-04T22:55:31+05:30</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/
-        </loc>
-        <lastmod>2015-10-23T16:20:29+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://ibumble.com/about/</loc>
-        <lastmod>2015-11-25T11:59:20+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://ibumble.com/blog/archives/</loc>
-        <lastmod>2015-10-23T16:20:29+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://ibumble.com/</loc>
-        <lastmod>2015-10-23T16:20:29+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://ibumble.com/robots.txt</loc>
-        <lastmod>2013-02-02T23:20:46+05:30</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://ibumble.com/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/</loc>
+<lastmod>2015-10-23T15:54:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://ibumble.com/blog/2013/11/13/how-to-open-winmail-dot-dat-files-on-ios-iphone-and-ipad/</loc>
+<lastmod>2013-11-13T15:15:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://ibumble.com/blog/2013/02/02/first-post-on-the-new-blog/</loc>
+<lastmod>2013-02-02T23:44:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://ibumble.com/</loc>
+</url>
+<url>
+<loc>http://ibumble.com/blog/archives/</loc>
+</url>
+<url>
+<loc>http://ibumble.com/about/</loc>
+</url>
 </urlset>

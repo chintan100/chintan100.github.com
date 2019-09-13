@@ -21,10 +21,11 @@
   <link rel="canonical" href="http://ibumble.com/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="iBumble" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -61,7 +62,7 @@
   
 <form action="http://google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:ibumble.com" />
+    <input type="hidden" name="sitesearch" value="ibumble.com">
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -93,14 +94,7 @@
 
 
 
-
-
-
-
-  
-
-
-<time datetime="2015-10-23T15:54:00+05:30" pubdate data-updated="true">Oct 23<span>rd</span>, 2015</time>
+<time class='entry-date' datetime='2015-10-23T15:54:00+05:30'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>23</span><span class='date-suffix'>rd</span>, <span class='date-year'>2015</span></span> <span class='time'>3:54 pm</span></time>
         
       </p>
     
@@ -113,7 +107,7 @@
 
 <p>To fulfill this task, just capturing pictures from phone camera and sending captured images of bills as separate email attachments or zipping them together might cause some file management pain if the number of images increase.</p>
 
-<p>To deal with this, I decided to come up with an iOS app&#8230;</div>
+<p>To deal with this, I decided to come up with an iOS app&hellip;</div>
   
   
     <footer>
@@ -138,14 +132,7 @@
 
 
 
-
-
-
-
-  
-
-
-<time datetime="2013-11-13T15:15:00+05:30" pubdate data-updated="true">Nov 13<span>th</span>, 2013</time>
+<time class='entry-date' datetime='2013-11-13T15:15:00+05:30'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>13</span><span class='date-suffix'>th</span>, <span class='date-year'>2013</span></span> <span class='time'>3:15 pm</span></time>
         
       </p>
     
@@ -154,7 +141,7 @@
 
   <div class="entry-content"><p>A week ago, i released my first iOS app to the App Store: <a href="http://taps.io/winmail">Winmail.dat File Viewer Pro</a>. This post is about how I did market research to find what to build as my first iOS app on App Store.</p>
 
-<p>If Microsoft Outlook server is not configured correctly, it can send out emails as &#8220;winmail.dat&#8221; files instead of the actual email with attachments.</p>
+<p>If Microsoft Outlook server is not configured correctly, it can send out emails as &ldquo;winmail.dat&rdquo; files instead of the actual email with attachments.</p>
 
 </div>
   
@@ -181,14 +168,7 @@
 
 
 
-
-
-
-
-  
-
-
-<time datetime="2013-02-02T23:44:00+05:30" pubdate data-updated="true">Feb 2<span>nd</span>, 2013</time>
+<time class='entry-date' datetime='2013-02-02T23:44:00+05:30'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2013</span></span> <span class='time'>11:44 pm</span></time>
         
       </p>
     
@@ -223,7 +203,7 @@
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/">Image To PDF Converter App for iOS: How to create a PDF from multiple images on iPhone and iPad</a>
+        <a href="/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/">Image to PDF Converter App for iOS: How to Create a PDF From Multiple Images on iPhone and iPad</a>
       </li>
     
       <li class="post">
@@ -252,7 +232,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Chintan Patel -
+  Copyright &copy; 2019 - Chintan Patel -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
@@ -267,7 +247,7 @@
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -283,7 +263,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

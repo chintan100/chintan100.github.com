@@ -21,10 +21,11 @@
   <link rel="canonical" href="http://ibumble.com/about/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="iBumble" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -61,7 +62,7 @@
   
 <form action="http://google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:ibumble.com" />
+    <input type="hidden" name="sitesearch" value="ibumble.com">
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -93,10 +94,10 @@
 <h2>My own apps on App Store:</h2>
 
 <ul>
-<li><p><a href="https://itunes.apple.com/app/winmail-dat-file-viewer-pro/id733258678?at=1l3uZR4&amp;ct=blog">Winmail DAT File Viewer Pro - Open winmail.dat TNEF-encoded Outlook files</a> : View contents of &#8220;wimail.dat&#8221; files on iOS with ease. More than 200k winmail files have been sucessfully extracted with this app.</p></li>
+<li><p><a href="https://itunes.apple.com/app/winmail-dat-file-viewer-pro/id733258678?at=1l3uZR4&amp;ct=blog">Winmail DAT File Viewer Pro - Open winmail.dat TNEF-encoded Outlook files</a> : View contents of &ldquo;wimail.dat&rdquo; files on iOS with ease. More than 200k winmail files have been sucessfully extracted with this app.</p></li>
 <li><p><a href="https://itunes.apple.com/app/ad-blocker-pro-block-maximum/id1043843815?at=1l3uZR4&amp;ct=blog">Ad Blocker Pro - Block Maximum Ads in Mobile Browser</a> : Block ads in mobile Safari while increasing browsing speed and saving mobile data.</p></li>
 <li><p><a href="https://itunes.apple.com/app/image-to-pdf-converter-pro/id758170890?at=1l3uZR4&amp;ct=blog">Image To PDF Converter</a> : Universal app enabling users to create multi-page PDF files from images imported from your library or captured with camera within the app. After the PDF has been created, you can share it using Mail, Dropbox, Drive, Print, Airdrop etc.</p></li>
-<li><p><a href="https://itunes.apple.com/app/ugly-booth-extreme-make-people/id894950203?at=1l3uZR4&amp;ct=blog">Ugly Booth</a> : Create a scary face out of any photo. Use your friends&#8217; pics to convert them into scary zombies. Perfect for Halloween.</p></li>
+<li><p><a href="https://itunes.apple.com/app/ugly-booth-extreme-make-people/id894950203?at=1l3uZR4&amp;ct=blog">Ugly Booth</a> : Create a scary face out of any photo. Use your friends' pics to convert them into scary zombies. Perfect for Halloween.</p></li>
 <li><p><a href="https://itunes.apple.com/app/instagram-likes-pro/id912320956?at=1l3uZR4&amp;ct=blog">Get Instagram Likes - Free Unlimited Instagram Likes</a> : Get more likes for your Instagram pics. Like pics of other users to receive more coins.</p></li>
 <li><p><a href="https://itunes.apple.com/app/currency-converter-real-time/id853028563?at=1l3uZR4&amp;ct=blog">Currency Converter</a> : Convert between 160+ currencies. Reliable and accurate real-time conversion. Awesome animations to make a boring finance app lively and fun to use. Search and select currencies by currency code or currency name. Includes currency symbols (where available).</p></li>
 </ul>
@@ -152,7 +153,7 @@
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/">Image To PDF Converter App for iOS: How to create a PDF from multiple images on iPhone and iPad</a>
+        <a href="/blog/2015/10/23/image-to-pdf-converter-app-for-ios-how-to-create-a-pdf-from-multiple-images-on-iphone-and-ipad/">Image to PDF Converter App for iOS: How to Create a PDF From Multiple Images on iPhone and iPad</a>
       </li>
     
       <li class="post">
@@ -182,7 +183,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Chintan Patel -
+  Copyright &copy; 2019 - Chintan Patel -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
@@ -200,7 +201,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
