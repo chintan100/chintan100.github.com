@@ -11,3 +11,4 @@ unity3d.com, 1609047, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1609047, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1609047, RESELLER, 1a4e959a1b50034a
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+adcolony.com, 2ccac1ae88f3f28ddb7dcd234dc3b8e3, DIRECT, 1ad675c9de6b5176
