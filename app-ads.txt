@@ -107,3 +107,4 @@ e-planning.net, dfe3c13594cd35a3, DIRECT, c1ba615865ed87b2
 improvedigital.com, 1556, RESELLER
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+google.com, pub-6871304774815443, DIRECT, f08c47fec0942fa0
